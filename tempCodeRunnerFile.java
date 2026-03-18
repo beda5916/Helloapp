@@ -1,0 +1,8 @@
+public class helloapp_uc2 {
+
+    public static void main(String[] args) {
+
+        String name=args[0];
+        System.out.println("Hello, " + name + "!");
+    }
+}
