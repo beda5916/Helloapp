@@ -16,7 +16,7 @@
  * @version 6.0
  * @since UC1
  */
-public class HelloApp {
+public class helloapp_uc7 {
     public static void main(String[] args) {
         // Initialize names with the default value "World"
         String names = "World";
