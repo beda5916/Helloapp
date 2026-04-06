@@ -9,7 +9,7 @@
  * console.
  * - If no names are provided, it will display "Hello, World!"
  * 
- * @author Developer Name
+ * @author BEDABRATA  BHATTACHARJEE
  * @version 5.0
  * @since UC1
  */
